@@ -1,10 +1,10 @@
-﻿namespace CodingTracker
+﻿void MyFirstMethod()
+{ 
+    // Do something
+}
+void MySecondMethod()
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, MSSA CCAD12! One more modification!");
-        }
-    }
+}
+void MyThirdMethod()
+{
 }
